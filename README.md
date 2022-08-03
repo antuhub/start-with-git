@@ -1,3 +1,3 @@
 # Demo
 
-Some discripiton of my new github coures
+Some discripiton of my new github subject course
