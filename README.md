@@ -1,3 +1,4 @@
 # Demo
 
-Some discripiton of my new github subject course
+Some discr of my new github subject course
+work hard.
